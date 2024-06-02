@@ -37,9 +37,9 @@ public class DataSourceAdministrator implements Serializable {
             //AWS
             //bds.setUrl("jdbc:postgresql://database-1.cgujpjkz4fsl.us-west-1.rds.amazonaws.com:5432/chppreciosespecprodpromocdb");
             //Oficina
-            bds.setUrl("jdbc:postgresql://localhost:5433/chppreciosespecprodpromocdb");
+            //bds.setUrl("jdbc:postgresql://localhost:5433/chppreciosespecprodpromocdb");
             //Casa
-            //bds.setUrl("jdbc:postgresql://localhost:5434/chppreciosespecprodpromocdb");
+            bds.setUrl("jdbc:postgresql://localhost:5434/chppreciosespecprodpromocdb");
             bds.setUsername("cheesepizzauser");
             bds.setPassword("cheesepizza2001");
 
