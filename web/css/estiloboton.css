@@ -1,0 +1,80 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9/04/2023, 09:11:20 PM
+    Author     : LUIS.MU
+*/
+
+/*.margen{
+    margin:20px 0;
+}*/
+.btn{
+    background: #f9a03f;
+    border: none;
+    color:#ffffff;
+    font-size: 12px;
+    font-family:Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: activecaption;
+    padding:10px 15px;
+    display: inline-block;
+    margin:3px 3px;
+    /*border-radius:10px;*/
+}
+.btn:hover{
+    opacity:0.5;
+}
+
+.btnverde{
+    background: #549325;
+    border: none;
+    color:#ffffff;
+    font-size: 12px;
+    font-family:Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: activecaption;
+    padding:10px 15px;
+    display: inline-block;
+    margin:3px 3px;
+    /*border-radius:10px;*/
+}
+.btnverde:hover{
+    opacity:0.5;
+}
+
+.btnazul{
+    background: #0240a6;
+    border: none;
+    color:#ffffff;
+    font-size: 12px;
+    font-family:Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: activecaption;
+    padding:10px 15px;
+    display: inline-block;
+    margin:3px 3px;
+    /*border-radius:10px;*/
+}
+.btnazul:hover{
+    opacity:0.5;
+}
+
+.btnrojo{
+    background: #890c15;
+    border: none;
+    color:#ffffff;
+    font-size: 12px;
+    font-family:Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: activecaption;
+    padding:10px 15px;
+    display: inline-block;
+    margin:3px 3px;
+    /*border-radius:10px;*/
+}
+.btnrojo:hover{
+    opacity:0.5;
+}
