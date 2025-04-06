@@ -13,5 +13,10 @@
         <group name="CheesePizzaProjects">
             <file>file:/D:/NetBeansProjects/CHPSystem/Desarrollo/2023/SistemaCapturaPreciosProductosPromocionesWeb/web/catalogoproductotipo.jsp</file>
         </group>
+        <group>
+            <file>file:/Users/joseluismuorizaga/ionic_projects/github/SistemaCapturaPreciosProductosPromocionesWeb/src/java/com/appixsoftware/cheesepizza/app/persistence/DataSourceAdministrator.java</file>
+            <file>file:/Users/joseluismuorizaga/ionic_projects/github/SistemaCapturaPreciosProductosPromocionesWeb/src/java/com/appixsoftware/cheesepizza/app/controller/RelacionEspecialidadTamanioPrecioSucursalController.java</file>
+            <file>file:/Users/joseluismuorizaga/ionic_projects/github/SistemaCapturaPreciosProductosPromocionesWeb/src/java/com/appixsoftware/cheesepizza/app/controller/ProductoTipoController.java</file>
+        </group>
     </open-files>
 </project-private>

@@ -39,7 +39,7 @@ public class DataSourceAdministrator implements Serializable {
             //Oficina
             //bds.setUrl("jdbc:postgresql://localhost:5433/chppreciosespecprodpromocdb");
             //Casa
-            bds.setUrl("jdbc:postgresql://localhost:5434/chppreciosespecprodpromocdb");
+            bds.setUrl("jdbc:postgresql://localhost:5432/chppreciosespecprodpromocdb");
             bds.setUsername("cheesepizzauser");
             bds.setPassword("cheesepizza2001");
 
